@@ -1,0 +1,5 @@
+John Doe - Group A
+Jane Smith - Group B
+Mary Adams - Group C
+David Lee - Group C
+Samuel Kim - Group A
