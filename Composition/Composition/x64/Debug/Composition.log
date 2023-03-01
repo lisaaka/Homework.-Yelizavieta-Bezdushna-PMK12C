@@ -1,0 +1,3 @@
+﻿  Composition.cpp
+D:\instruments\Composition\Composition\Composition.cpp(23,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Composition.vcxproj -> D:\instruments\Composition\x64\Debug\Composition.exe
