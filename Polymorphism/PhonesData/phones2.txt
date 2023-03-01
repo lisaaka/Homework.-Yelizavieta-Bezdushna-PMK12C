@@ -1,0 +1,3 @@
+Philips D4552B/38, Philips, 1200, 2, true
+Panasonic KX-TG1611, Panasonic, 850, 1, false
+Gigaset C530A IP, Gigaset, 2000, 5, true
