@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except for C++ source code, header files and text files
+!*.cpp
+!*.h
+!*.txt
