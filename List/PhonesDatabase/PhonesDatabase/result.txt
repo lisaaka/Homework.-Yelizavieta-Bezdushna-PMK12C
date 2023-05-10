@@ -1,0 +1,19 @@
+Address	Owners count	Phones price sum
+ Australia	3			1949.97
+ Brazil	2			1199.98
+ Canada	3			2199.97
+ China	2			899.98
+ France	3			1999.97
+ Germany	3			2799.97
+ India	2			1049.98
+ Italy	2			1599.98
+ Japan	2			1499.98
+ Mexico	2			899.98
+ Russia	2			799.98
+ South Korea	2			849.98
+ Spain	2			1599.98
+ USA	1			799.99
+ United Kingdom	2			1299.98
+asd	1			22
+russia	2			20
+ukraine	3			30

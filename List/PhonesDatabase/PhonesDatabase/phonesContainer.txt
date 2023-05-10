@@ -1,0 +1,42 @@
+
+John, USA, iPhone X, +1234567890, 799.99
+Emily, Canada, Samsung Galaxy S21, +0987654321, 899.99
+David, Australia, Google Pixel 5, +9876543210, 699.99
+Sophia, Germany, OnePlus 9 Pro, +0123456789, 999.99
+Michael, France, Xiaomi Mi 11, +9876543210, 599.99
+Olivia, Japan, Huawei P40 Pro, +1234567890, 899.99
+Emma, Italy, iPhone 12 Pro, +0987654321, 1099.99
+William, Spain, Samsung Galaxy Note20, +0123456789, 799.99
+Ava, Brazil, Google Pixel 4a, +9876543210, 499.99
+James, India, OnePlus 8T, +1234567890, 699.99
+Isabella, Mexico, Xiaomi Redmi Note 10, +0987654321, 299.99
+Benjamin, United Kingdom, Huawei Mate 40 Pro, +0123456789, 899.99
+Mia, Russia, iPhone SE, +1234567890, 399.99
+Alexander, China, Samsung Galaxy A52, +0987654321, 399.99
+Sophia, South Korea, Google Pixel 5a, +0123456789, 499.99
+Ethan, Canada, OnePlus Nord, +9876543210, 499.99
+Charlotte, Australia, Xiaomi Redmi Note 9, +1234567890, 249.99
+Harper, Germany, Huawei P30 Pro, +0987654321, 599.99
+Noah, France, iPhone 11, +0123456789, 699.99
+Amelia, Japan, Samsung Galaxy S20 FE, +9876543210, 599.99
+Liam, Italy, Google Pixel 4, +1234567890, 499.99
+Evelyn, Spain, OnePlus 9, +0987654321, 799.99
+Oliver, Brazil, Xiaomi Mi 10T Pro, +0123456789, 699.99
+Abigail, India, Huawei P40 Lite, +9876543210, 349.99
+Elijah, Mexico, iPhone XR, +1234567890, 599.99
+Elizabeth, United Kingdom, Samsung Galaxy A71, +0987654321, 399.99
+Charlotte, Russia, Google Pixel 3a, +0123456789, 399.99
+Michael, China, OnePlus 7T, +9876543210, 499.99
+Scarlett, South Korea, Xiaomi Mi 11 Lite, +1234567890, 349.99
+Daniel, Canada, Huawei Mate 30 Pro, +0987654321, 799.99
+Grace, Australia, iPhone 12, +0123456789, 999.99
+Sofia, Germany, Samsung Galaxy S21 Ultra, +9876543210, 1199.99
+Oliver, France, Google Pixel 5, +1234567890, 699.99
+Amelia, Japan, OnePlus 8 Pro, +0987654321
+
+ad,asd,dqw,12412,22
+lisa,ukraine,ewq,124124125412,10
+lisa1,ukraine,ewq,1000,10
+lisa2,russia,ewq,124124125412,10
+lisa3,ukraine,ewq,1000,10
+lisa4,russia,ewq,8000,10
